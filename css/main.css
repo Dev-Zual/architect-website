@@ -106,7 +106,7 @@ ul li a {
   margin-bottom: 1rem;
 }
 /** features style  */
-.features-area {
+.features-top {
   display: flex;
   gap: 5rem;
   margin: 4rem;
