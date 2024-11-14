@@ -13,15 +13,47 @@
   .banner-img img {
     width: 80%;
   }
+  .feature-bottom-left {
+    width: 90%;
+  }
+  /* .feature-card-group {
+    width: 100%;
+  } */
   .features-top {
     margin: 1rem 0;
     text-align: center;
+    flex-direction: column-reverse;
+  }
+  .feature-text {
+    width: 90%;
   }
   .feature-img {
     grid-template-columns: repeat(1, 1fr);
+    margin-bottom: 2rem;
+    width: 90%;
   }
 
   .feature-bottom-left {
     text-align: center;
+  }
+  .feature-bottom-right {
+    width: 90%;
+  }
+  .experience {
+    left: 20%;
+    bottom: -5rem;
+  }
+  .facts-area {
+    text-align: center;
+  }
+  .facts-area p {
+    text-align: center;
+    width: 100%;
+    margin-bottom: 1rem;
+    padding: 0 3rem;
+  }
+  .facts-group {
+    grid-template-columns: repeat(1, 1fr);
+    margin: 0 2rem;
   }
 }
