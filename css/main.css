@@ -308,3 +308,17 @@ span.text-color-2 {
 .sponsor-area {
   margin-bottom: 5rem;
 }
+.footer-area {
+    text-align: center;
+    margin-bottom: 4rem;
+    background: #FFF4E7;
+    padding: 1.4rem 0;
+    border-radius: 6px;
+}
+
+.footer-area p {
+    color: rgba(66, 66, 66, 1);
+    font-size: 1.2rem;
+    font-weight: 400;
+    font-style: normal;
+}
