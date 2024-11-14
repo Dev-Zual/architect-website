@@ -1,7 +1,8 @@
 @media screen and (max-width: 767.98px) {
   nav,
   ul,
-  .features-top {
+  .features-top,
+  .features-bottom {
     flex-direction: column;
     align-items: center;
   }
@@ -18,5 +19,9 @@
   }
   .feature-img {
     grid-template-columns: repeat(1, 1fr);
+  }
+
+  .feature-bottom-left {
+    text-align: center;
   }
 }

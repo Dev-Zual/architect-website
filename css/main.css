@@ -190,6 +190,7 @@ span.text-color-2 {
   display: flex;
   flex-direction: column;
   gap: 0.9rem;
+
 }
 
 .feature-card {
